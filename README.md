@@ -6,5 +6,8 @@ configuration scripts are probably the most interesting.
 
 Vim plugins include
 
-- Pathogen
-- NERDTree
+-Pathogen
+-NERDTree
+-Scala (https://github.com/rosstimson/scala-vim-support/downloads)
+-Rails
+
